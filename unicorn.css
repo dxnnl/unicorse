@@ -1,0 +1,128 @@
+body {
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+color: #303030;
+font-size: 1em;
+line-height: 1.5em;
+background-color: #627a5a; 
+background-image: url(https://www.pngmart.com/files/21/Aesthetic-Star-PNG-Transparent.png);
+padding-top: 80px;
+}
+h1 {
+    font-size: 2.3em;
+    line-height: 1.3em;
+    margin: 15px 0;
+    text-align: center;
+    font-weight: 300;
+}
+p {
+margin: 0 0 1.5;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 500px;
+}
+.main-header {
+    background-color: #3f5239;
+    color: antiquewhite;
+    height: 80px;
+
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+.main-header a {
+    color: antiquewhite;
+}
+.logo-header {
+    float: left;
+    padding: 15px 0 0 20px;
+    text-decoration: dotted;
+}
+.logo-header:hover {
+    color: #1a5a28;
+}
+.logo-header .site-name {
+    display: block;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+.logo-header .site-desc {
+display: block;
+font-weight: 300;
+font-size: 0.8em;
+color: beige;
+}
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+h3, p {
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+button {
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+}
+button:hover{
+	cursor: pointer;
+}
+nav {
+    float: right;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-right: 20px;
+}
+nav ul li{
+display: inline-block;
+line-height: 80px;
+}
+nav ul li a{
+    display: block;
+    padding: 0 10px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    background: #354635;
+}
+.main-footer {
+    background: #3f5239;
+    color: #2b352a;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+.main-footer p {
+    margin: 0;
+}
+.main-footer a {
+    color: #2b352a;
+}
+.main-content {
+    background: #4f6348;
+    width: 90%;
+    max-width: 800px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0)); 
+}
+
+.main-content,
+.main-content .content {
+    padding: 40px;
+}
